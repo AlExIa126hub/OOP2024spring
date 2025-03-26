@@ -1,4 +1,4 @@
-package quizes.q1.alexia-ioana_cazan_1;
+package quizes.q1.alexia_ioana_cazan_1;
 
 
 /**

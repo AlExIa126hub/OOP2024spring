@@ -1,4 +1,4 @@
-package quizes.q1.alexia-ioana_cazan_1;
+package quizes.q1.alexia_ioana_cazan_1;
 
 
 /**
@@ -11,6 +11,6 @@ public class Assignment01 {
         int A = 17;
         int B = 18;
 
-        System.out.println("The sum of the numbers is" + A + B);
+        System.out.println("The sum of the numbers is " + (A + B));
     }
 }
